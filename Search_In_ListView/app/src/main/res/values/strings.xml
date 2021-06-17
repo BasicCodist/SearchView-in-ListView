@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SearchInListView</string>
+    <string-array name="product_array">
+        <item>Samsung LED TV</item>
+        <item>LG LED TV</item>
+        <item>Sony LED TV</item>
+        <item>LG Laptop</item>
+        <item>Samsung Music System</item>
+        <item>LG Laptop</item>
+    </string-array>
+</resources>
